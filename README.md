@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyVeselov84
 - 👀 I’m interested in microcontroller programming.
-- 🌱 I’m currently learning KMOS technology.
+- 🌱 I’m currently learning СMOS technology.
 - 💞️ I’m not looking to collaborate. 
 - 📫 How to reach me e-mail: sergey.veselov.84@rambler.ru
 
